@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    background-color: #a52a2a;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+section {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.why-work ul {
+    list-style: none;
+    padding: 0;
+}
+
+.why-work ul li {
+    padding: 8px 0;
+    font-size: 16px;
+}
+
+.job {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+}
+
+.job h3 {
+    color: #a52a2a;
+    margin-bottom: 5px;
+}
+
+.apply {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    background: #a52a2a;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+
